@@ -3,10 +3,6 @@
 ## Descripción breve
 Base de datos relacional en **MySQL 8.0.19+** para una tienda en línea. Gestiona productos, categorías jerárquicas, proveedores, clientes, ventas y su detalle (con el **precio congelado** al momento de la compra), e incluye 20 consultas analíticas, 20 funciones, un esquema de seguridad con roles y usuarios, 20 triggers (más 5 complementarios), 20 eventos programados y 20 procedimientos almacenados.
 
-## Integrantes
-- _Nombre completo del integrante 1_
-- _Nombre completo del integrante 2_
-- _Nombre completo del integrante 3_
 
 > Repositorio privado: `Proyecto_BD_Avanzada_[NombreEquipo]` (recuerde invitar al trainer como colaborador).
 
